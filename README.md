@@ -20,7 +20,3 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=rdll&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=103050">
 
-### Programacion-FC Personal blog about C++ programming
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
