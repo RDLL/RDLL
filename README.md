@@ -2,7 +2,8 @@
 
 <!-- *RDLL/RDLL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- :memo: I am currently studying telecommunications engineering at the UASLP.
+- :mexico: I'm from Mexico.
+- :memo: I'm currently studying telecommunications engineering at the UASLP.
 - :satellite: I am currently learning about antenna development.
 - 👯 I’m looking to collaborate on The Linux Foundation or a research on MIMO antennas.
 - 🤔 I’m looking for help with FPGA programming
