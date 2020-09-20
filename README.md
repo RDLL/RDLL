@@ -9,7 +9,7 @@
 - 🤔 I’m looking for help with FPGA programming
 - 💬 Ask me about maths and physics.
 - 😄 Pronouns: Raffini el elegante
-- ⚡ Fun fact: As a child I thought that babies were sold in commercial stores upon request.
+- ⚡ Fun fact: As a child I thought that babies were sold in commercial stores upon request. You can ask me for the history.
 
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/nauzdeluna?color=1DA1F2&logo=Twitter&style=for-the-badge) 
